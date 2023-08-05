@@ -1,0 +1,23 @@
+body {
+    padding: 20px;
+    background: linear-gradient(to bottom right, #1a237e, #00bcd4);
+    min-height: 100vh;
+    color: white;
+}
+
+#gameSection{
+margin-top: 5%;
+}
+
+.container {
+    display: flex;
+    max-width: 600px;
+    margin: 0 auto;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+#gameSection {
+    display: none;
+}
